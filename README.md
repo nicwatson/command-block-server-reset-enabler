@@ -1,0 +1,1 @@
+"# Command Block Server Reset Enabler (bresetenabler)" 

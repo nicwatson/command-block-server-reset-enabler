@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bresetenabler",
+  "name": "Command Block Server Reset Enabler",
+  "description": "This simple server-side mod adds a new command, /breset, which functions much like the /stop command, but can be issued from a command block.",
+  "version": "0.99_1.12",
+  "mcversion": "1.12",
+  "url": "https://minecraft.curseforge.com/projects/command-block-server-reset-enabler",
+  "updateUrl": "",
+  "authorList": ["nicwatson"],
+  "credits": "Created by Nic Watson",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Forge"]
+}
+]
